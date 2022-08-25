@@ -9,9 +9,9 @@
 
 ## GitHub Stats 📊
 
-![profile views](https://komarev.com/ghpvc/?username=alkaison&color=7957d5)
+![GitHub profile views](https://komarev.com/ghpvc/?username=alkaison&color=7957d5)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alkaison)](https://github.com/alkaison/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=alkaison&custom_title=Ganesh%20Github%20Stats&show_icons=true)](https://github.com/alkaison/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&layout=compact)](https://github.com/alkaison/github-readme-stats)
 
