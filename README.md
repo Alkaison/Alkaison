@@ -1,10 +1,10 @@
 
-## Hey there! I'm Alkaison.
+## Hi there! I'm Alkaison <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 ### GitHub Stats 📊
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alkaison.visitor-badge&left_text=My%20Profile%20Views)
+![profile views badge](https://komarev.com/ghpvc/?username=alkaison&color=7957d5)
 
 [![Alkaison's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkaison)](https://github.com/alkaison/github-readme-stats)
 
