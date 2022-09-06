@@ -20,8 +20,7 @@
 [![Github](https://img.shields.io/badge/-Alkaison-000?style=flat&logo=Github&logoColor=white)](https://github.com/Alkaison/)
 [![Linkedin](https://img.shields.io/badge/-Ganesh%20Mourya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshmourya/)
 [![Gmail](https://img.shields.io/badge/-505ganeshmourya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com)
+
+## Join my community 🍃
+
 <a href="https://discord.gg/dF4PHxbHpA"><img src='https://discordapp.com/api/guilds/995692977320112178/widget.png?style=banner4'></a>
-
-## Pre Made by discord!
-
-<iframe src="https://discord.com/widget?id=995692977320112178&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
