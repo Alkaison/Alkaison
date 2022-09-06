@@ -1,7 +1,7 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- I am Ganesh from India 🇮🇳
+- I am Ganesh from India.
 - 🔭 I’m currently pursuing my Bachelor of Science in Information Technology (Bsc.IT).
 - 🌱 I’m currently learning Java, Graphic Designing and IOT.
 - 👯 I’m looking to collaborate on Open-source Projects.
@@ -20,3 +20,4 @@
 [![Github](https://img.shields.io/badge/-Alkaison-000?style=flat&logo=Github&logoColor=white)](https://github.com/Alkaison/)
 [![Linkedin](https://img.shields.io/badge/-Ganesh%20Mourya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshmourya/)
 [![Gmail](https://img.shields.io/badge/-505ganeshmourya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com)
+<a href="https://discord.gg/dF4PHxbHpA"><img src='https://img.shields.io/discord/995692977320112178?color=7289DA&logo=discord&logoColor=white&style=for-the-badge'/></a>
