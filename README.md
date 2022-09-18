@@ -3,7 +3,7 @@
 
 - I am Ganesh from India.
 - 🔭 I’m currently pursuing my Bachelor of Science in Information Technology (Bsc.IT).
-- 🌱 I’m currently learning Java, Graphic Designing and IOT.
+- 🌱 I’m currently learning Java, C, Graphic Designing and IOT.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about coding, open-source collabs.
 
