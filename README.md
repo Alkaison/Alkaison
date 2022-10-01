@@ -11,13 +11,13 @@
 
 ## Contact me through 📨
 
-<a href="https://discord.gg/dF4PHxbHpA"><img src='https://img.shields.io/discord/995692977320112178?color=7289DA&logo=discord&logoColor=white&style=for-the-badge'/></a>
+[![Discord Server](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg)](https://discord.gg/dF4PHxbHpA)
 &ensp;
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alkaison)
-<br>
-[![Linkedin](https://img.shields.io/badge/-Ganesh%20Mourya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshmourya/)
+[![LinkedIn Profile](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/ganeshmourya/)
 &ensp;
-[![Gmail](https://img.shields.io/badge/-505ganeshmourya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com)
+[![MailID](https://github.com/Alkaison/GitBashDemo/blob/main/mail.svg)](mailto:505ganeshmourya@gmail.com)
+&ensp;
+[![Ko-Fi Profile](https://github.com/Alkaison/GitBashDemo/blob/main/donate.svg)](https://ko-fi.com/alkaison)
 
 ## GitHub Stats 📊
 
