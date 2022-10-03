@@ -13,7 +13,7 @@
 
 [![Discord Server](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg)](https://discord.gg/dF4PHxbHpA)
 &ensp;
-[![LinkedIn Profile](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/ganeshmourya/)
+[![LinkedIn Profile](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/alkaison)
 &ensp;
 [![MailID](https://github.com/Alkaison/GitBashDemo/blob/main/mail.svg)](mailto:505ganeshmourya@gmail.com)
 &ensp;
