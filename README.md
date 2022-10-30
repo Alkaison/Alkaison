@@ -25,19 +25,19 @@
 
 ## GitHub Stats 📊
 
-![Alkaison's github stats](https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Alkaison's github stats](https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)](#)
 
 ### Languages 🔖
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&layout=compact&bg_color=151515&text_color=daf7dc)](https://github.com/alkaison/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&layout=compact&bg_color=151515&text_color=daf7dc)](#)
 
 ### Streak Stats ⚡
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alkaison&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alkaison&theme=dark)](#)
 
 ### Contribution Graph 🎉
 
-[![Alkaison's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alkaison&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alkaison's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alkaison&theme=react-dark&hide_title=true)](#)
 
 ### Liked this Profile ? 🌟
 
