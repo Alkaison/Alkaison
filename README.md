@@ -19,6 +19,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&layout=compact)
 
+### Trophies 🏆
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alkaison&theme=dracula)
+
 ### Streak Stats ⚡
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alkaison&theme=dark)
