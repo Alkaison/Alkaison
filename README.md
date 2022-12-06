@@ -27,10 +27,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alkaison&theme=dark)
 
-### Contribution Graph 🎉
-
-![Alkaison's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alkaison&theme=react-dark&hide_title=true)
-
 ## Contact me through 📨
 
 [![Discord Server](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg)](https://discord.gg/dF4PHxbHpA "Byte Hub Discord")
