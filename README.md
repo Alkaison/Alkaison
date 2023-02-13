@@ -32,67 +32,27 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java"/>
+  <a href="#"><img title="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /></a>
+  <a href="#"><img title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java"/></a>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alkaison&hide_border=false" />
+  <a href="#"><img title="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=alkaison&hide_border=false" /></a>
 </details>
 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-	     <tr>
-	      <td><a href="https://github.com/Alkaison/Phonebook-Management-System"><b>📞 Phonebook Management System</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Alkaison/Phonebook-Management-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Alkaison/Phonebook-Management-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Alkaison/Phonebook-Management-System?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alkaison/Phonebook-Management-System?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Alkaison/Phonebook-Management-System?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/Alkaison/Number-System-Converter"><b>🧮 Number System Converter</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Alkaison/Number-System-Converter?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Alkaison/Number-System-Converter?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Alkaison/Number-System-Converter?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alkaison/Number-System-Converter?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Alkaison/Number-System-Converter?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/Alkaison/Projects-in-C"><b>🕹️ Projects In C</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Alkaison/Projects-in-C?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Alkaison/Projects-in-C?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Alkaison/Projects-in-C?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alkaison/Projects-in-C?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Alkaison/Projects-in-C?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/Alkaison/Alkaison"><b>😎 Alkaison</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Alkaison/Alkaison?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Alkaison/Alkaison?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Alkaison/Alkaison?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Alkaison/Alkaison?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
+
+  <a href="https://github.com/Alkaison/Number-System-Converter/"><img title="Number System Converter" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=number-system-converter&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Projects-in-C/"><img title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Phonebook-Management-System/"><img title="Phonebook Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=phonebook-management-system&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Knight-Official/"><img title="Knight Official" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=knight-official&show_owner=true"/></a>
+
   <br />
 </details>
  
