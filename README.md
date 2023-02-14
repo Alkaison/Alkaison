@@ -33,7 +33,7 @@
 
   <br />
   <a href="#"><img title="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /></a>
-  <a href="#"><img title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java"/></a>
+  <a href="#"><img title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java,shell,scss,ruby"/></a>
 </details>
 
 <details>	
