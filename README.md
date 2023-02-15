@@ -32,15 +32,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <a href="#"><img title="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /></a>
-  <a href="#"><img title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java,shell,scss,ruby"/></a>
+  <a href="#"><img height="175px" title="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /></a>
+  <a href="#"><img height="175px" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java,shell,scss,ruby"/></a>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <a href="#"><img title="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=alkaison&hide_border=false" /></a>
+  <a href="#"><img height="175px" width="425px" title="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=alkaison&hide_border=false" /></a>
 </details>
 
 <details>
@@ -48,10 +48,10 @@
 
   <br />
 
-  <a href="https://github.com/Alkaison/Number-System-Converter/"><img title="Number System Converter" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=number-system-converter&show_owner=true"/></a>
-  <a href="https://github.com/Alkaison/Projects-in-C/"><img title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
-  <a href="https://github.com/Alkaison/Phonebook-Management-System/"><img title="Phonebook Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=phonebook-management-system&show_owner=true"/></a>
-  <a href="https://github.com/Alkaison/Knight-Official/"><img title="Knight Official" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=knight-official&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Number-System-Converter/"><img height="175px" title="Number System Converter" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=number-system-converter&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Alkaison.github.io/"><img height="175px" title="Alkaison.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=alkaison.github.io&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Projects-in-C/"><img height="175px" title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Knight-Official/"><img height="175px" title="Knight Official" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=knight-official&show_owner=true"/></a>
 
   <br />
 </details>
