@@ -12,8 +12,8 @@
 
 - 🛠 &nbsp; I’m currently pursuing my studies in Bachelor of Science <br />in Information Technology (BSc.IT).
 - 🚀 &nbsp; I’m currently learning C++ and Web Develpoment.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alkaison).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/alkaison/alkaison/issues/new)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alkaison "GitHub Profile").
+- 💬 &nbsp; Ask me about anything [here](https://github.com/alkaison/alkaison/issues/new  "Lets connect and talk")! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: 505ganeshmourya@gmail.com.
 
@@ -30,31 +30,40 @@
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ Github Stats & Languages</b></summary>
 
   <br />
-  <a href="#"><img height="150px" title="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=alkaison&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" /></a>
-  <a href="#"><img height="150px" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaison&show_icons=true&hide_border=false&layout=compact&langs_count=6&hide=java,shell,scss,ruby"/></a>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=tokyonight" /></a>
   <br />
-  <a href="#"><img height="150px" title="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Alkaison&hide_border=false" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=tokyonight&langs_count=10&hide=scss,ruby,shell&card_width=400" /></a>
+
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>☄️ GitHub Streak & Activity</b></summary>
 
   <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats"><img height="250px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" /></a>
+  <br />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph"><img height="250px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Alkaison&theme=tokyo-night&radius=16" /></a>
 
-  <a href="https://github.com/Alkaison/Alkaison.github.io/"><img height="115px" title="Alkaison.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=alkaison.github.io&show_owner=true"/></a>
-  <a href="https://github.com/Alkaison/Projects-in-C/"><img height="115px" title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Project</b></summary>
+
+  <br />
+	<h3>Projects in C</h3>
+	<ul>
+		<li>A collection of beginner friendly programs coded in C language to improve your programming skills.</li>
+		<li>From basic to advance level projects to practice and learn with few fun projects and games.</li>
+		<li><b>Contribution</b>: PR's are welcome, you can contribute your programs to help people learn and grow.</li>
+	</ul>
+  <a href="https://github.com/Alkaison/Projects-in-C"><img height="150px" title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
 
 </details>
  
-<details>	
+<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -62,7 +71,8 @@
 	    <li><b>Laptop: </b> Dell Inspiron 15 3000</li>
   	    <li><b>Browser: </b> Edge & Firefox</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-      <li><b>To Stay Updated:</b> Follow on Linkedin, GitHub and Twitter.</li>
+      <li><b>To Stay Updated:</b> Follow on <a href="https://linkedin.com/in/Alkaison" title="LinkedIn Profile">LinkedIn</a>, <a href="https://github.com/Alkaison" title="GitHub Profile">GitHub</a> and <a href="https://twitter.com/Alkaison" title="Twitter Profile">Twitter</a>
+.</li>
 	</ul>
 </details>
 
