@@ -27,6 +27,10 @@
 <code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
 <code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
 
+### Quine Stats Card
+
+[![Alkaison's GitHub | Stats](https://stats.quine.sh/Alkaison/github?theme=dark)](https://quine.sh)
+
 ### Projects and Dev Stuffs:
 
 <details>	
