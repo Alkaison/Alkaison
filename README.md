@@ -60,7 +60,7 @@
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats"><img height="250px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" /></a>
   <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph"><img height="250px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Alkaison&theme=tokyo-night&radius=16" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph"><img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16" /></a>
 
 </details>
 
