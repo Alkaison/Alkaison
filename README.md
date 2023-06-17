@@ -1,4 +1,6 @@
 
+![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
+
 #  Hey there! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alkaison "@Alkaison")
