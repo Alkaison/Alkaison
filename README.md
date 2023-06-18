@@ -16,7 +16,6 @@
 - 🚀 &nbsp; I’m currently learning C++ and Web Develpoment.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/alkaison "GitHub Profile").
 - 💬 &nbsp; Ask me about anything [here](https://github.com/alkaison/alkaison/issues/new  "Lets connect and talk")! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: 505ganeshmourya@gmail.com.
 
 ### Technologies I work with:
@@ -26,7 +25,6 @@
 <code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
 <code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
 <code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
-<br>
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
@@ -35,8 +33,6 @@
 
 <code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
 <code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
-
-
 
 ### Quine Stats Card
 
