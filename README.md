@@ -18,9 +18,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://github.com/alkaison/alkaison/issues/new  "Lets connect and talk")! I am happy to help.
 - 📫 &nbsp; How to reach me: 505ganeshmourya@gmail.com.
 
-### Technologies I work with:
-
-#### Languages:
+### Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
 <code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
@@ -29,7 +27,7 @@
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
 
-#### Tools:
+### Tools:
 
 <code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
 <code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
@@ -38,42 +36,38 @@
 
 [![Alkaison's GitHub | Stats](https://stats.quine.sh/Alkaison/github?theme=dark)](https://quine.sh)
 
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats & Languages</b></summary>
+  <h3>⚡ Github Stats & Languages</h3>
 
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=tokyonight" /></a>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=tokyonight&langs_count=10&hide=scss,ruby,shell&card_width=400" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=tokyonight" />
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=tokyonight&langs_count=10&hide=scss,ruby,shell&card_width=400" />
+    </a>
 
-</details>
-
-<details>
-  <summary><b>☄️ GitHub Streak & Activity</b></summary>
-
-  <br />
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats"><img height="250px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" /></a>
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph"><img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16" /></a>
-
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Project</b></summary>
+  <h3>☄️ GitHub Streak & Activity</h3>
 
   <br />
-	<h3>Projects in C</h3>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+  	<img height="250px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16" />
+  </a>
+
+
+<h3>Projects in C</h3>
+  <br />
 	<ul>
 		<li>A collection of beginner friendly programs coded in C language to improve your programming skills.</li>
 		<li>From basic to advance level projects to practice and learn with few fun projects and games.</li>
 		<li><b>Contribution</b>: PR's are welcome, you can contribute your programs to help people learn and grow.</li>
 	</ul>
-  <a href="https://github.com/Alkaison/Projects-in-C"><img height="150px" title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true"/></a>
+  <a href="https://github.com/Alkaison/Projects-in-C">
+  	<img height="150px" title="Projects in C" src="https://github-readme-stats.vercel.app/api/pin/?username=alkaison&repo=projects-in-c&show_owner=true" />
+  </a>
 
-</details>
- 
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
