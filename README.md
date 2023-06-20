@@ -65,7 +65,6 @@
 - **Laptop**: Dell Inspiron 15 3000.
 - **Browser**: Microsoft Edge.
 - **IDE**: VSCode - The best editor out there.
-- **Stay Updated**: Follow on [LinkedIn](https://linkedin.com/in/Alkaison/ "LinkedIn Profile"), [Twitter](https://twitter.com/Alkaison/ "Twitter Profile"), [GitHub](https://github.com/Alkaison/ "GitHub Profile").
 
 ## 📧 Connect with me:
 
