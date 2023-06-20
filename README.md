@@ -41,19 +41,22 @@
 ## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=tokyonight">
+  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=react">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=tokyonight&langs_count=10&hide=scss,ruby,shell&card_width=400">
+   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=react&langs_count=10&hide=scss,ruby,shell&card_width=400">
   </a>
 
-## ☄️ GitHub Streak & Activity
+## ☄️ GitHub Streaks
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
-  	<img height="250px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  	<img height="200px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a>
+
+## 📈 GitHub Contribution Graph
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16">
   </a>
 
 ## ⚙️ Things I work with:
