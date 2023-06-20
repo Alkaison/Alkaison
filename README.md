@@ -24,6 +24,27 @@
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile").
 - 🔗 Connect Me on [**Discord**](https://discordapp.com/users/536816649425125389 "Discord Profile").
 
+## 🌐 Web Development Projects
+
+| Project List | Languages |
+| --- | --- |
+| [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | HTML, CSS, JS |
+| [**🔗 Calculator**](https://github.com/Alkaison/Calculator) | HTML, CSS, JS |
+| [**🔗 Currency Converter**](https://github.com/Alkaison/Currency-Converter) | HTML, CSS, JS |
+| [**🔗 Tic Tac Toe**](https://github.com/Alkaison/Tic-Tac-Toe) | HTML, CSS, JS |
+| [**🔗 King of Spices**](https://github.com/Alkaison/King-of-Spices) | HTML, CSS, JS |
+| [**🔗 JavaScript Projects**](https://github.com/Alkaison/Web-Projects) | HTML, CSS, JS |
+| [**🔗 Alkaison Blog**](https://github.com/Alkaison/Alkaison.github.io) | Jekyll |
+
+## 👨‍💻 Software Development Projects
+
+| Project List | Languages |
+| --- | --- |
+| [**🔗 Snake Game**](https://github.com/Alkaison/Snake-Game) | C++ |
+| [**🔗 Phonebook Management System**](https://github.com/Alkaison/Phonebook-Management-System) | C |
+| [**🔗 Library Management System**](https://github.com/Alkaison/Library-Management-System) | C |
+| [**🔗 Number System Converter**](https://github.com/Alkaison/Number-System-Converter) | C |
+
 ## 🚀 Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
