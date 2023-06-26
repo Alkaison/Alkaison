@@ -29,7 +29,7 @@
 ## 🌐 Web Development Projects
 
 | Project List | Languages |
-| --- | --- |
+| --- | :---: |
 | [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | HTML, CSS, JS |
 | [**🔗 Calculator**](https://github.com/Alkaison/Calculator) | HTML, CSS, JS |
 | [**🔗 Currency Converter**](https://github.com/Alkaison/Currency-Converter) | HTML, CSS, JS |
@@ -41,7 +41,7 @@
 ## 👨‍💻 Software Development Projects
 
 | Project List | Languages |
-| --- | --- |
+| --- | :---: |
 | [**🔗 Snake Game**](https://github.com/Alkaison/Snake-Game) | C++ |
 | [**🔗 Phonebook Management System**](https://github.com/Alkaison/Phonebook-Management-System) | C |
 | [**🔗 Library Management System**](https://github.com/Alkaison/Library-Management-System) | C |
