@@ -83,6 +83,10 @@
   	<img height="200px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a>
 
+## 🛡️ Holopin Badges
+
+[![An image of @alkaison's Holopin badges](https://holopin.me/alkaison)](https://holopin.io/@alkaison)
+
 ## 📧 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alkaison "@Alkaison")
