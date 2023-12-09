@@ -31,6 +31,7 @@
 | :--- | :---: | :---: |
 | [**🔗 Health Plus**](https://github.com/Alkaison/Health-Plus) | Website | React.JS |
 | [**🔗 Country Dex**](https://github.com/Alkaison/Country-Dex) | Web App | React.JS |
+| [**🔗 Live Clipboard**](https://github.com/Alkaison/Live-Clipboard) | Web App | React.JS, Firebase |
 | [**🔗 King of Spices**](https://github.com/Alkaison/King-of-Spices) | Website | HTML, CSS, JS |
 | [**🔗 Link Saver**](https://github.com/Alkaison/Link-Saver-Extension) | Browser Extension | HTML, CSS, JS |
 | [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | Vanilla JS | HTML, CSS, JS |
