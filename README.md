@@ -5,7 +5,7 @@
 
 <h2 align="center"><b>I'm passionate about 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b></h2>
 
-<h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, ReactJS, Git | BSc IT Student</b></h4>
+<h4 align="center"><b>Frontend Intern @rinventix | Next.js, React.js, TypeScript, Firebase, WordPress, Git | BSc IT Student</b></h4>
 
 ## 🙋‍♂️ About Me
 
@@ -16,7 +16,7 @@
 - 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
-- 🔭 I’m Currently Studing in **2nd Year**.
+- 🔭 I’m Currently Studing in **3rd Year**.
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 🚀 Portfolio: https://alkaison.vercel.app/
@@ -92,8 +92,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alkaison "@Alkaison")
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alkaison "@Alkaison")
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com "Email")
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alkaison "@Alkaison")
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com "Email")
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/536816649425125389 "@Alkaison")
 
 <div align="center">
