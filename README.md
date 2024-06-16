@@ -1,4 +1,3 @@
-
 ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Ganesh Mourya</b></h1>
@@ -9,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
+<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a>
 
 <br>
 
@@ -25,25 +24,15 @@
 - 📫 How to reach me **505ganeshmourya@gmail.com**.
 - 🔗 Connect with me on [**Linkedin**](https://www.linkedin.com/in/Alkaison/ "LinkedIn Profile"), [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile").
 
-## 🌐 Web Development Projects
+## 🚀 Notable Projects & Contributions
 
-| Project List | Topic | Languages |
-| :--- | :---: | :---: |
-| [**🔗 Health Plus**](https://github.com/Alkaison/Health-Plus) | Website | React.JS |
-| [**🔗 Country Dex**](https://github.com/Alkaison/Country-Dex) | Web App | React.JS |
-| [**🔗 Live Clipboard**](https://github.com/Alkaison/Live-Clipboard) | Web App | React.JS, Firebase |
-| [**🔗 King of Spices**](https://github.com/Alkaison/King-of-Spices) | Website | HTML, CSS, JS |
-| [**🔗 Link Saver**](https://github.com/Alkaison/Link-Saver-Extension) | Browser Extension | HTML, CSS, JS |
-| [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | Vanilla JS | HTML, CSS, JS |
-| [**🔗 Currency Converter**](https://github.com/Alkaison/Currency-Converter) | Vanilla JS | HTML, CSS, JS |
-
-## 👨‍💻 Awesome piece of works!
-
-| Project List | Topic | Languages |
-| :--- | :---: | :---: |
-| [**🔗 Snake Game**](https://github.com/Alkaison/Snake-Game) | Classic 2-D Game Implementation | C++ |
-| [**🔗 Phonebook**](https://github.com/Alkaison/Phonebook-Management-System) | Interactive Phonebook Management | C |
-| [**🔗 Number System Converter**](https://github.com/Alkaison/Number-System-Converter) | Base Conversion Utility | C |
+| 🔗 Project                                                                                                                  | Description                                     | Technologies               |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
+| 🔗 [**My Portfolio**](https://alkaison.vercel.app/)                                                                         | Personal Website Showcasing Projects and Skills | Next.js                    |
+| 🔗 [**Live Clipboard**](https://live-clipboard.netlify.app/)                                                                | Real-Time Text, Code and Image Sharing Tool     | React.js, Firebase         |
+| 🔗 [**Cinemania**](https://github.com/Alkaison/Movie-Ticket-Booking-Management-System)                                      | Desktop App for Movie Ticket Booking            | Java, JavaFX, SQLite, JSON |
+| 🔗 [**Link Saver**](https://microsoftedge.microsoft.com/addons/detail/link-saver/jgboclmgidjapblhelhmfdiabiiihaaf?hl=en-US) | Chrome Extension - Save Links and Use Shortcuts | HTML, CSS, JavaScript      |
+| 🔗 [**Snake Game**](https://github.com/Alkaison/Snake-Game)                                                                 | Classic 2D Snake Game                           | C++                        |
 
 ## 🚀 Technology Proficiencies:
 
