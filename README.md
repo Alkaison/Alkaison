@@ -4,7 +4,7 @@
 
 <h2 align="center"><b>I'm passionate about 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b></h2>
 
-<h4 align="center"><b>Frontend Intern @rinventix | Next.js, React.js, TypeScript, Firebase, WordPress, Git | BSc IT Student</b></h4>
+<h4 align="center"><b>Frontend Developer | Next.js, React.js, TypeScript, Firebase, WordPress, Git | BSc IT Student</b></h4>
 
 ## 🙋‍♂️ About Me
 
