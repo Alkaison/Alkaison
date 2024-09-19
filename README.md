@@ -24,12 +24,12 @@
 - 📫 How to reach me **505ganeshmourya@gmail.com**.
 - 🔗 Connect with me on [**Linkedin**](https://www.linkedin.com/in/Alkaison/ "LinkedIn Profile"), [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile").
 
-## 🚀 Notable Projects & Contributions
+## 🚀 Notable Projects
 
 | 🔗 Project                                                                                                                  | Description                                     | Technologies               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
 | 🔗 [**My Portfolio**](https://alkaison.vercel.app/)                                                                         | Personal Website Showcasing Projects and Skills | Next.js                    |
-| 🔗 [**Live Clipboard**](https://live-clipboard.netlify.app/)                                                                | Real-Time Text, Code and Image Sharing Tool     | React.js, Firebase         |
+| 🔗 [**Realtime Clipboard**](https://live-clipboard.netlify.app/)                                                                | Real-Time Text, Code and Image Sharing Tool     | React.js, Firebase         |
 | 🔗 [**Cinemania**](https://github.com/Alkaison/Movie-Ticket-Booking-Management-System)                                      | Desktop App for Movie Ticket Booking            | Java, JavaFX, SQLite, JSON |
 | 🔗 [**Link Saver**](https://microsoftedge.microsoft.com/addons/detail/link-saver/jgboclmgidjapblhelhmfdiabiiihaaf?hl=en-US) | Chrome Extension - Save Links and Use Shortcuts | HTML, CSS, JavaScript      |
 | 🔗 [**Snake Game**](https://github.com/Alkaison/Snake-Game)                                                                 | Classic 2D Snake Game                           | C++                        |
