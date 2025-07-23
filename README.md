@@ -2,44 +2,38 @@
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Ganesh Maurya</b></h1>
 
-<h2 align="center"><b>I'm passionate about 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b></h2>
-
-<h4 align="center"><b>Frontend Developer | Next.js, React.js, TypeScript, Firebase, WordPress, Git | BSc IT Student</b></h4>
+<h3 align="center"><b>Frontend Developer <a href="https://www.rinventix.com/" target="_blank">@Rinventix</a> | React, Next.js, TypeScript, JavaScript, Firebase | MERN Stack</b></h3>
 
 ## 🙋‍♂️ About Me
 
-<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a>
+- 👨‍💻 Frontend Developer with hands-on experience building modern web applications.
+- ⚛️ Skilled in **React.js**, **Next.js**, **TypeScript**, **JavaScript**, and **Firebase** — passionate about clean, efficient UI development.
+- 🧱 Working with the **MERN Stack** and have strong understanding of full-stack concepts.
+- 🚀 Able to take projects end-to-end independently — from planning to deployment.
+- 🌱 Always learning and improving — currently deepening skills in full-stack scalability and performance.
+- 🤝 Actively open to **collaborating on open-source projects** and community initiatives.
+- 🛠️ Currently building tools that solve real-world problems using scalable and practical approaches.
+- 🧩 I love exploring new tools, frameworks, and real-world problem-solving.
+- 🔗 Portfolio: [https://alkaison.vercel.app/](https://alkaison.vercel.app/)
+- 📁 Most of my work is available on [**GitHub**](https://github.com/Alkaison/ "GitHub Profile")
+- 📫 Reach me at **505ganeshmourya@gmail.com**
+- 🌐 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/Alkaison/ "LinkedIn Profile") | [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile")
 
-<br>
+## ⚡ Projects I've Built from Scratch
 
-- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
-- 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
-- 🔭 I’m Currently Studing in **3rd Year**.
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
-- 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 🚀 Portfolio: https://alkaison.vercel.app/
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Alkaison/ "GitHub Profile").
-- ⚡ For Fun **Games, Music, Entertainment**.
-- 📫 How to reach me **505ganeshmourya@gmail.com**.
-- 🔗 Connect with me on [**Linkedin**](https://www.linkedin.com/in/Alkaison/ "LinkedIn Profile"), [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile").
-
-## 🚀 Notable Projects
-
-| 🔗 Project                                                                                                                  | Description                                     | Technologies               |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
-| 🔗 [**My Portfolio**](https://alkaison.vercel.app/)                                                                         | Personal Website Showcasing Projects and Skills | Next.js                    |
-| 🔗 [**Realtime Clipboard**](https://live-clipboard.netlify.app/)                                                                | Real-Time Text, Code and Image Sharing Tool     | React.js, Firebase         |
-| 🔗 [**Cinemania**](https://github.com/Alkaison/Movie-Ticket-Booking-Management-System)                                      | Desktop App for Movie Ticket Booking            | Java, JavaFX, SQLite, JSON |
-| 🔗 [**Link Saver**](https://microsoftedge.microsoft.com/addons/detail/link-saver/jgboclmgidjapblhelhmfdiabiiihaaf?hl=en-US) | Chrome Extension - Save Links and Use Shortcuts | HTML, CSS, JavaScript      |
-| 🔗 [**Snake Game**](https://github.com/Alkaison/Snake-Game)                                                                 | Classic 2D Snake Game                           | C++                        |
+| 🔗 Project                                                       | Description                                                                                                                                               | Technologies                                                                                         |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 🔗 [**Realtime Clipboard**](https://live-clipboard.netlify.app/) | Real-time collaboration tool used by **5,000+ monthly users**; **20,000+ rooms** created; GA-verified, **100% uptime**, supports real-time text & images. | React.js • Firebase • PWA                                                                            |
+| 🔗 [**WebSupportify**](https://websupportify.vercel.app/)        | AI-powered customer support chatbot generator—input any website URL, auto-generate a chatbot in under 5 minutes powered by your content.                  | MERN Stack • Vector DB • RAG Model • Integration Scripts • Web Scraping • AI (LLMs, Embeddings, NLP) |
+| 🔗 [**Health‑Plus**](https://github.com/Alkaison/Health-Plus)    | Robust React healthcare web app for scheduling telehealth consultations; responsive design with notifications and routing. ⭐68 stars • 61 forks          | React.js • React Router • Toastify • GitHub Pages                                                    |
+| 🔗 [**My Portfolio**](https://alkaison.vercel.app/)              | Fully-featured personal website showcasing my work and projects.                                                                                          | Next.js • Framer Motion • Vercel                                                                     |
 
 ## 👨‍💻 Technology Proficiencies:
 
 ### 🌐 Web Development & Frameworks:
 
-<code><img height="27" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js"></code>
 <code><img height="27" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" title="React.js"></code>
+<code><img height="27" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js"></code>
 <code><img height="27" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript"></code>
 <code><img height="27" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS" title="Tailwind_CSS"></code>
