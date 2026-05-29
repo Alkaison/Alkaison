@@ -26,15 +26,6 @@ I'm Ganesh Maurya — **SDE II at [Rinventix](https://www.rinventix.com/)**, whe
 | [**Health‑Plus**](https://github.com/Alkaison/Health-Plus)    | Healthcare scheduling app. **⭐74 stars • 66 forks**—community validation of clean architecture and reusable code patterns.                                                                                                                                                                                                                                                                     | React • React Router • Toastify                                                                         |
 | [**Portfolio**](https://alkaison.vercel.app/)                 | Personal showcase built with modern tooling.                                                                                                                                                                                                                                                                                                                                                    | Next.js • Framer Motion • Vercel                                                                        |
 
-## 🎯 SDE II Core Competencies
-
-- **System Architecture & Design**: Full-stack system design—REST APIs, real-time sync, payment orchestration, data encryption, fintech compliance
-- **Production Engineering**: Reliability-first approach—100% uptime proven, monitoring, error handling, graceful degradation, data integrity
-- **End-to-End Ownership**: Idea → architecture → implementation → deployment → optimization. Full control of product lifecycle, tech debt management, roadmap prioritization
-- **Full-Stack Mastery**: React/Next.js frontend • Node.js/Express backend • React Native mobile • Firebase/MongoDB databases • Docker/CI/CD
-- **AI & Advanced Integrations**: LLM integration (Groq), RAG pipelines, vector embeddings, Razorpay payments, secure data handling (AES), webhooks
-- **Leadership**: Client-facing requirements translation, code reviews, clear documentation, mentoring through architecture guidance
-
 ## 👨‍💻 Core Engineering Stack
 
 **Full-stack, production-grade technologies across frontend, backend, mobile, and infrastructure.**
