@@ -1,10 +1,10 @@
 ## ⚡ GitHub Stats & Languages
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=react&show=reviews">
+  <a href="https://github.com/astra-intelligence/github-stats-card" title="GitHub Stats Card">
+  	<img height="200px" src="https://167.233.135.161:8083/card?user=Alkaison&theme=react">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+  	<img height="200px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
   </a>
 
 ## ☄️ GitHub Streaks
